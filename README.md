@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AlejandroClaure, I´m from Argentina.
+- 👋 Hi, I’m @AlejandroClaure. 
+- 🇦🇷  I´m from Argentina.
 - 👀 I’m interested in web development (front-end and back-end).
-- 🌱 I’m currently learning fullstack web development in nodeJs (programa codo a codo bs.as).
+- 🌱 I’m currently learning Fullstack web development in nodeJs (programa codo a codo bs.as) and a
 - 🌱 Full stack web development (Universidad Nacional del Comahue: Tecnicatura Universitaria en Desarrollo Web).
 - 💞️ Cambridge Certificate B2.
 - 📫 You can get in contact with me vía mail: alejandroclaure01@gmail.com

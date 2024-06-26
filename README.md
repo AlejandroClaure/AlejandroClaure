@@ -5,6 +5,7 @@
 - 🌱 Currently Studying Full stack web development (Universidad Nacional del Comahue: Tecnicatura Universitaria en Desarrollo Web).
 - 💞️ Cambridge Certificate B2.
 - 📫 You can get in contact with me vía mail: alejandroclaure01@gmail.com
+- 💼 My portfolio: https://alejandroclaure.github.io/portfolio/
 
 <!---
 AlejandroClaure/AlejandroClaure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

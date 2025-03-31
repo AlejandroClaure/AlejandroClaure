@@ -3,6 +3,7 @@
 - 👀 I’m interested in web development (front-end and back-end).
 - 📚 Full Stack node.Js Developer (graduated from programa codo a codo bs.as).
 - 🌱 Currently Studying Full stack web development (Universidad Nacional del Comahue: Tecnicatura Universitaria en Desarrollo Web).
+- 📱  Studying Android/Ios development with Kotlin Multiplatform.
 - 💞️ Cambridge Certificate B2.
 - 📫 You can get in contact with me vía mail: alejandroclaure01@gmail.com
 - 💼 My portfolio: https://alejandroclaure.github.io/portfolio/
